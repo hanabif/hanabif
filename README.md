@@ -20,30 +20,6 @@ I bridge the gap between design and functionality through hands-on experience in
 
 ---
 
-## 💼 Experience
-
-**UI/UX Design Intern** — *Efuye Gela* (Jul 2024 - Present)  
-- Contributed to a complete website redesign  
-- Created wireframes & prototypes for early testing and iteration  
-
-**Frontend Developer / UI/UX Designer Intern** — *Kuraztech* (Jul 2024 - Sep 2024)  
-- Designed & developed an investor–entrepreneur connection platform  
-- Worked on SRS documentation, responsive UI design, and cross-browser compatibility  
-- Project ranked Top 5; nominated for **Best UI/UX Designer Award**  
-
-**Mobile App Development Intern** — *A2SV Eskalate* (2025 - Present)  
-- Collaborated on mobile app projects with a diverse, international development team  
-
----
-
-## 📜 Certifications
-- **Google Foundations of UX Design** (Nov 2024)  
-- **Start the UX Design Process: Empathize, Define, and Ideate** (Jan 2025)  
-- **IBM SkillsBuild – Web Development Fundamentals** (2022 - 2024)  
-- **Capstone Project Certification** – GDG on Campus AASTU (Jun 2025)  
-
----
-
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/haymanot-aweke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
